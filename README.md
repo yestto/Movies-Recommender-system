@@ -1,7 +1,7 @@
 # 🎬 Movie Recommender System (Content-Based)
 
 This project implements a **Content-Based Movie Recommender System** using Python and Jupyter Notebook. It recommends movies similar to a selected title based on text similarity of genres, cast, crew, and other metadata.
-
+it better ours
 ---
 
 ## 🚀 Features
